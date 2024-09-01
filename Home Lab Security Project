@@ -1,0 +1,18 @@
+#cybersecurity
+Home Lab Security Project
+
+Objective: Set up and configure a home lab using Kali Linux to gain hands-on experience with various cybersecurity tools.
+
+Key Activities:
+Installed and Configured Tools:
+Wireshark: Captured and analyzed network traffic for vulnerabilities.
+tcpdump: Monitored and logged network traffic for detailed analysis.
+Metasploit: Conducted penetration testing to identify and exploit vulnerabilities.
+Nmap: Performed network scanning to discover hosts and services.
+Snort: Set up an intrusion detection system (IDS) to monitor network traffic.
+Suricata: Implemented an IDS/IPS for threat detection and prevention.
+Splunk: Aggregated and analyzed logs for security insights.
+IBM QRadar: Utilized for SIEM capabilities to enhance security monitoring and incident response.
+
+Outcome: Successfully developed a comprehensive home lab environment, gaining practical experience with a range of cybersecurity tools and techniques. 
+This project enhanced my skills in network analysis, threat detection, and security incident management.
