@@ -1,0 +1,26 @@
+#30 Day Challenge
+Day 1 Recap: Building a Cloud-Based SOC Architecture
+- Vultr CLoud Platform: The foundation of my SOC environment, providing the cloud infrastructure to securely host and manage the operations.
+- Elastic & Kabana: Deployed within a Virtual Private Cloud (VPC) on Vultr, these tools form the core of log management and visualization. 
+  Analysts can interact with logs, create dashboards, and monitor activities through Kibana’s web GUI.
+- Fleet Server: Managing log collection agents across different servers (Windows and Ubuntu) within the VPC
+  ensuring all relevant data is captured and forwarded to Elastic & Kibana for analysis.
+- Ticket Server: A dedicated server to handle alerts and incidents, automating the process of generating tickets based on log analysis.
+- Secure & Isolated Network: The entire setup is hosted within a private VPC, ensuring a secure and isolated environment for sensitive log data.
+
+Day 2 Recap: Gaining a Deeper Understanding of ELK Stack
+- Elasticsearch:  A robust search and analytics engine for storing and querying logs (e.g., Windows event logs, firewall data). It supports ESQL (Elasticsearch Query Language)
+  and integrates seamlessly using RESTful APIs and JSON. Kibana enables easy visualization and analysis of this data.
+- Logstash: Collects and processes data using Beats or Elastic Agent:
+- Beats: Lightweight data shippers designed for different data types:
+- Filebeat: Log data
+- Metricbeat: System and service metrics
+- Winlogbeat: Windows event logs
+- Packetbeat: Network traffic
+- Auditbeat: Audit data
+- Heartbeat: Service uptime
+- Elastic Agent: A unified agent for logs, metrics, security data, and threat prevention. It can be deployed in:
+- Managed by Fleet: Centralized management via Fleet in Kibana, ideal for most users.
+- Standalone Mode: Manual policy application via YAML, suited for advanced configurations.
+- Logstash: filters logs to focus on critical data, reducing storage costs. For instance, it can capture Windows event ID 4624 (successful logins) and send it to Elasticsearch.
+- Kibana: Provides tools for visualizing data, such as Kibana Lens for dashboards, Discover for querying, and Machine Learning for anomaly detection.
