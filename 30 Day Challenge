@@ -1,4 +1,4 @@
-#30 Day Challenge
+30 Day Challenge
 Day 1 Recap: Building a Cloud-Based SOC Architecture
 - Vultr CLoud Platform: The foundation of my SOC environment, providing the cloud infrastructure to securely host and manage the operations.
 - Elastic & Kabana: Deployed within a Virtual Private Cloud (VPC) on Vultr, these tools form the core of log management and visualization. 
