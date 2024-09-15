@@ -1,30 +1,35 @@
-#cybersecurity
-Packet Tracer Project: Configuring Wireless Router Hardening and Security
-In this comprehensive Packet Tracer project, I successfully configured wireless security for a home wireless router, addressing initial security issues and hardening the router to mitigate potential attacks.
-The project involved a multi-step approach to enhance the router's security, ensure secure network connections, and verify the configurations and connectivity.
+Hello, I'm Mohamed Khaled, a cybersecurity enthusiast, water polo athlete, and robotics enthusiast. I have a diverse range of interests and skills, from sports coaching to engineering and technology. Below is a brief overview of my background:
 
-Project Objective:
-Part 1: Configure Basic Security Settings for a Wireless Router
-- Changed the default router password to a strong passphrase.
-- Disabled remote management to prevent unauthorized remote access.
-  
-Part 2: Configure Wireless Router Network Security
-- Configured and broadcasted the SSID for the HomeNet wireless network.
-- Enabled WPA2 Personal encryption with AES for secure communication.
-- Set up a separate GuestNet with independent security settings to isolate guest traffic.
-  
-Part 3: Configure Wireless Clients Network Security
-- Connected laptops and IoT devices to the secured HomeNet and GuestNet networks.
-- Ensured all devices received appropriate IP addressing from the router.
+Certified Cybersecurity Specialist
 
-Part 4: Verify Connectivity and Security Settings
-- Tested internet connectivity for wireless laptops.
-- Configured security settings to prevent interconnectivity between HomeNet and GuestNet, ensuring isolated network segments.
-  
-Key Achievements:
-- Successfully hardened the wireless router against potential attacks.
-- Ensured secure and encrypted communication between wireless clients and the router.
-- Verified network connectivity and isolated guest network traffic to enhance overall security.
-Outcome:
-This project not only strengthened my understanding of wireless network security but also provided practical experience in configuring and managing secure home networks.
-By implementing these security measures, I ensured a secure wireless environment, demonstrating my ability to protect against common network threats.
+ISC2 Certified in Cybersecurity
+Completed the Google Cybersecurity Professional Certificate
+Hands-on experience in ethical hacking, SIEM, SOC analysis, and cybersecurity operations
+Proficient in a range of cybersecurity tools, including Wireshark, tcpdump, Metasploit, Nmap, Snort, Suricata, Splunk, and IBM QRadar
+Currently focused on developing my expertise in CCNA CyberOps, Fortinet, and Red Hat Linux Administration
+
+Water Polo Athlete and Coach
+
+National team member and player at Heliopolis Sporting Club (HSC)
+Dedicated water polo goalie with extensive experience in high-level competition
+Water polo coach at HSC, training the next generation of athletes
+
+Robotics and Engineering Enthusiast
+
+Developed a 4 DOF robotic arm with a laser engraver as an end effector for my thesis project
+Experienced in working with software tools like Visual Studio, Marlin, Repetier, and SolidWorks
+Passionate about robotics, control systems, and mechanical design
+
+Technical Skills
+
+Languages: Python, MATLAB, Bash, C++
+Cybersecurity Tools: Wireshark, tcpdump, Metasploit, Nmap, Snort, Suricata, Splunk, IBM QRadar
+SIEM & SOC: Proficient in SOC analysis, security event monitoring, and incident response
+Network & Systems: CCNA-level knowledge in networking, Linux administration, Fortinet products
+Robotics: Experience with robotic arm design and simulation, control systems
+Software Tools: Visual Studio, Marlin, Repetier, SolidWorks
+
+Current Projects
+SOC Analyst Career Path: Preparing to join a company as a SOC analyst with an expanded set of responsibilities
+Cybersecurity Lab: Running a home lab using Kali Linux and experimenting with cybersecurity tools for deeper hands-on experience
+Water Polo Coaching: Actively training athletes at Heliopolis Sporting Club, focusing on goalkeeping and team defense strategies
