@@ -8,6 +8,8 @@ Day 1 Recap: Building a Cloud-Based SOC Architecture
 - Ticket Server: A dedicated server to handle alerts and incidents, automating the process of generating tickets based on log analysis.
 - Secure & Isolated Network: The entire setup is hosted within a private VPC, ensuring a secure and isolated environment for sensitive log data.
 
+![30Day_Challenge](./Desktop/#30Day_Challenge/30Day_Challenge.png)
+
 Day 2 Recap: Gaining a Deeper Understanding of ELK Stack
 - Elasticsearch:  A robust search and analytics engine for storing and querying logs (e.g., Windows event logs, firewall data). It supports ESQL (Elasticsearch Query Language)
   and integrates seamlessly using RESTful APIs and JSON. Kibana enables easy visualization and analysis of this data.
